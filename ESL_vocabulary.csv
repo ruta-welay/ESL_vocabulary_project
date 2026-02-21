@@ -1,0 +1,121 @@
+word,cefr_level,part_of_speech,definition,example_sentence
+Apple,A1,Noun,A round fruit with red or green skin and a whitish inside.,I ate a red apple for breakfast.
+Bread,A1,Noun,"A food made of flour, water, and yeast mixed together and baked.",Can you buy a loaf of bread?
+Water,A1,Noun,A clear liquid that has no color or taste and is necessary for life.,I drink a lot of water when it is hot.
+Happy,A1,Adjective,Feeling or showing pleasure or contentment.,She is very happy with her new toy.
+Small,A1,Adjective,Not large; little in size.,The cat is very small.
+Arrive,A2,Verb,To reach a place at the end of a journey.,The train will arrive at 6:00 PM.
+Believe,A2,Verb,To think that something is true or real.,I believe you are telling the truth.
+Expensive,A2,Adjective,Costing a lot of money.,That car is too expensive for me.
+Modern,A2,Adjective,Relating to the present or recent times.,They live in a very modern house.
+Journey,A2,Noun,The act of traveling from one place to another.,It was a long journey across the desert.
+Achieve,B1,Verb,"To succeed in doing something good, usually by working hard.",She worked hard to achieve her goals.
+Climate,B1,Noun,The general weather conditions usually found in a place.,"I prefer a warm, sunny climate."
+Discuss,B1,Verb,To talk about something with someone and tell each other your ideas or opinions.,We need to discuss the new project.
+Frequent,B1,Adjective,Happening often.,He is a frequent visitor to this library.
+Opportunity,B1,Noun,An occasion or situation that makes it possible to do something.,This job is a great opportunity for you.
+Advocate,B2,Verb,To publicly support or suggest a particular way of doing something.,He advocates for a higher minimum wage.
+Comprehensive,B2,Adjective,Complete and including everything that is necessary.,The report is a comprehensive guide to the city.
+Efficient,B2,Adjective,Working or operating quickly and effectively in an organized way.,The new machine is much more efficient.
+Perspective,B2,Noun,A particular way of considering something.,Try to see the problem from my perspective.
+Substantial,B2,Adjective,"Large in size, value, or importance.",The findings show a substantial difference.
+Ambiguous,C1,Adjective,Having or expressing more than one possible meaning.,His reply to my question was somewhat ambiguous.
+Cognitive,C1,Adjective,Connected with thinking or conscious mental processes.,Some of her cognitive functions have been impaired.
+Incentive,C1,Noun,Something that encourages a person to do something.,Bonus payments provide an incentive to work harder.
+Pragmatic,C1,Adjective,Solving problems in a sensible way that suits the conditions that really exist.,We need to take a pragmatic approach to the problem.
+Synthesize,C1,Verb,To produce a substance as a result of a chemical or biological process.,The body synthesizes protein from amino acids.
+Anomalous,C2,Adjective,"Different from what is usual, or not in agreement with something else.",The researchers found several anomalous results.
+Epitome,C2,Noun,The typical or highest example of a stated quality.,He was the epitome of professionalism.
+Inexorable,C2,Adjective,Continuing in a way that cannot be stopped.,The inexorable progress of science cannot be halted.
+Ubiquitous,C2,Adjective,Seeming to be everywhere.,Cell phones are ubiquitous these days.
+Zenith,C2,Noun,The best or most successful point or time.,His career reached its zenith in the 1990s.
+House,A1,Noun,A building that people live in.,My house has a blue door.
+Speak,A1,Verb,To say words; to use your voice.,I speak English and Spanish.
+Green,A1,Adjective,The color of grass or leaves.,The park is very green in spring.
+Family,A1,Noun,A group of people who are related.,I love spending time with my family.
+Drink,A1,Verb,To take liquid into your mouth and swallow.,Do you want to drink some juice?
+Morning,A1,Noun,The early part of the day.,I wake up at seven in the morning.
+Table,A1,Noun,A piece of furniture with four legs.,The food is on the kitchen table.
+Believe,A2,Verb,To think that something is true.,I believe you can win the race.
+Choose,A2,Verb,To decide which thing you want.,You can choose between tea and coffee.
+Simple,A2,Adjective,Easy to understand or do.,This recipe is very simple to follow.
+Travel,A2,Verb,To go from one place to another.,I want to travel to Japan next year.
+Borrow,A2,Verb,To take something and return it later.,Can I borrow your umbrella?
+Island,A2,Noun,A piece of land surrounded by water.,They spent their holiday on a small island.
+Message,A2,Noun,A piece of written or spoken information.,I left a message on your phone.
+Advice,B1,Noun,An opinion about what someone should do.,She gave me some very good advice.
+Comfort,B1,Noun,A feeling of being relaxed and no pain.,I like to sit in this chair for comfort.
+Describe,B1,Verb,To say what someone or something is like.,Can you describe the man you saw?
+Imagine,B1,Verb,To form a picture in your mind.,Imagine you are lying on a beach.
+Product,B1,Noun,Something that is made or grown to be sold.,This company makes high-quality products.
+Regular,B1,Adjective,Happening or doing something often.,He is a regular customer at this cafe.
+Success,B1,Noun,Achieving the results you wanted.,The party was a great success.
+Analyze,B2,Verb,To study something in detail.,We need to analyze the data carefully.
+Concept,B2,Noun,A principle or a general idea.,I struggle to understand the concept.
+Evidence,B2,Noun,Facts that show something is true.,There is no evidence against him.
+Identify,B2,Verb,To recognize someone or something.,Can you identify the person in the photo?
+Occur,B2,Verb,To happen or take place.,When did the accident occur?
+Relevant,B2,Adjective,Closely connected to the subject.,Please only provide relevant information.
+Theory,B2,Noun,An idea that explains how something works.,He developed a new theory of evolution.
+Acquire,C1,Verb,To get or buy something.,The company was acquired by a rival.
+Bias,C1,Noun,Supporting one person or group unfairly.,The news report showed a clear bias.
+Crucial,C1,Adjective,Extremely important or necessary.,Vitamin C is crucial for a healthy diet.
+Empirical,C1,Adjective,Based on what is seen or experienced.,We need empirical data to prove this.
+Inevitably,C1,Adverb,In a way that cannot be avoided.,Prices will inevitably rise next year.
+Precise,C1,Adjective,Exact and accurate.,The instructions were very precise.
+Utilize,C1,Verb,To use something in an effective way.,We must utilize all our resources.
+Anomalous,C2,Adjective,Different from what is normal.,The test showed several anomalous results.
+Capricious,C2,Adjective,Changing mood or behavior suddenly.,She is famous for her capricious nature.
+Exacerbate,C2,Verb,To make something worse.,This will only exacerbate the problem.
+Inherent,C2,Adjective,Existing as a natural part of something.,There are inherent risks in this plan.
+Mitigate,C2,Verb,To make something less harmful.,We must mitigate the effects of pollution.
+Obsequious,C2,Adjective,Too eager to praise or obey someone.,He had an obsequious manner toward his boss.
+Rhetoric,C2,Noun,Speech or writing intended to persuade.,"We need action, not just empty rhetoric."
+Tenacious,C2,Adjective,Holding tightly to something; persistent.,She is a tenacious negotiator.
+Venerable,C2,Adjective,Deserving respect because of age or status.,The venerable professor retired last week.
+Voracious,C2,Adjective,"Wanting a lot of something, like food or info.",He is a voracious reader of history.
+Bread,A1,Noun,A common food made from flour and water.,I buy fresh bread every morning.
+Child,A1,Noun,A young human being.,The child is playing with a ball.
+Drink,A1,Verb,To take liquid into the body.,I drink a lot of water.
+Fast,A1,Adjective,Moving at high speed.,He has a very fast car.
+Learn,A1,Verb,To get knowledge or skill.,I want to learn how to cook.
+Night,A1,Noun,The time when it is dark outside.,The stars are beautiful at night.
+Sleep,A1,Verb,To rest with your eyes closed.,I usually sleep for eight hours.
+Yellow,A1,Adjective,The color of lemons or the sun.,She wore a bright yellow dress.
+Bottle,A2,Noun,A container for liquids.,The bottle of milk is in the fridge.
+Change,A2,Verb,To make or become different.,You can change your mind later.
+Forest,A2,Noun,A large area covered with trees.,They went for a walk in the forest.
+Market,A2,Noun,A place where people buy and sell.,I buy my vegetables at the market.
+Pocket,A2,Noun,A small bag sewn into clothing.,He put the keys in his pocket.
+Strange,A2,Adjective,Unusual or surprising.,I heard a strange noise last night.
+Village,A2,Noun,A very small town in the country.,She grew up in a tiny village.
+Ability,B1,Noun,The power or skill to do something.,He has the ability to speak four languages.
+Average,B1,Adjective,Normal or typical.,The average temperature here is 20 degrees.
+Comfort,B1,Noun,A state of physical ease.,These shoes are designed for comfort.
+Direct,B1,Adjective,Going straight to a place.,Is there a direct flight to Paris?
+Explain,B1,Verb,To make something clear.,Let me explain how this works.
+Healthy,B1,Adjective,In good physical condition.,I try to eat a healthy diet.
+Normal,B1,Adjective,"Usual, ordinary, or expected.",It is normal to feel nervous before a test.
+Address,B2,Verb,To speak to or deal with a problem.,We must address the issue of safety.
+Complex,B2,Adjective,Consisting of many different parts.,The brain is a very complex organ.
+Domestic,B2,Adjective,Relating to the home or family.,I handle most of the domestic chores.
+Function,B2,Noun,The natural purpose of something.,What is the function of this button?
+Internal,B2,Adjective,Inside an object or body.,The pilot reported an internal failure.
+Negative,B2,Adjective,"Expressing ""no"" or a lack of hope.",Don't have such a negative attitude.
+Project,B2,Noun,A planned piece of work.,Our latest project is almost finished.
+Abstract,C1,Adjective,Based on ideas rather than things.,Truth and justice are abstract concepts.
+Capacity,C1,Noun,The total amount something can hold.,"The stadium has a capacity of 50,000."
+Enormous,C1,Adjective,Very large in size or quantity.,They live in an enormous house.
+Generate,C1,Verb,To cause something to exist.,The new factory will generate many jobs.
+Instance,C1,Noun,An example or single occurrence.,There was another instance of theft.
+Purchase,C1,Verb,To buy something.,Tickets must be purchased in advance.
+Virtually,C1,Adverb,Almost or nearly.,The task is virtually impossible.
+Abject,C2,Adjective,Experienced to a maximum degree (bad).,They live in abject poverty.
+Cognizant,C2,Adjective,Having knowledge or being aware.,We are cognizant of the difficulties.
+Facetious,C2,Adjective,Treating serious issues with humor.,Stop being facetious; this is serious.
+Inscrutable,C2,Adjective,Impossible to understand or interpret.,He kept an inscrutable expression.
+Modicum,C2,Noun,A small amount of something good.,He hasn't even a modicum of common sense.
+Pinnacle,C2,Noun,The most successful point.,He has reached the pinnacle of his career.
+Salient,C2,Adjective,Most noticeable or important.,These are the salient points of the case.
+Transient,C2,Adjective,Lasting only for a short time.,The city has a large transient population.
+Zealous,C2,Adjective,Showing great energy or enthusiasm.,He is a zealous supporter of the cause.
